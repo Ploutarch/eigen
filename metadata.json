@@ -1,5 +1,18 @@
-  "name": "plou",
-  "website": "",
-  "description": "Data operator",
-  "logo": "https://raw.githubusercontent.com/Ploutarch/eigen/logo.png",
-  "twitter": "https://x.com/ploutarch"
+{
+    "name": "plou",
+    "website": "",
+    "description": "Data operator",
+    "logo": "https://raw.githubusercontent.com/Ploutarch/eigen/main/logo.png",
+    "twitter": "https://x.com/ploutarch",
+    "discord": "",
+    "operatorDetails": {
+        "location": {
+            "country": "",
+            "city": ""
+        },
+        "infrastructureDetails": {
+            "hosting": "",
+            "setup": ""
+        }
+    }
+}
